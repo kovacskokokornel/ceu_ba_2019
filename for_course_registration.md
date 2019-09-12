@@ -1,0 +1,118 @@
+## Requirements - 36 credits
+- 28 mandatory credits
+- 8 elective credits
+
+## Fall term 
+- __14 credits (11 mandatory + 3 elective)__
+- __Coding 1: Data Management and Analysis with R__
+	- _Credit:_ 2
+	- _Exam:_ 
+		- Assignments (70%)
+		- Participation (30%)
+	- _Professor:_ Kaufmann, Marc
+- __Data Analysis 1: Exploration - Business Analytics track__
+	- _Credit:_ 1
+	- _Exam:_ 
+		- Closed book exam (28 OCT) (90%)
+		- Start-of-the-class Quizzes (10%)
+	- _Professor:_ Bekes, Gabor
+- __Data Analysis 2: Finding Patterns with Regressions - Business Analytics track__
+	- _Credit:_ 2
+	- _Exam:_ 
+		- Closed book exam (50%)
+		- Assignments (40%)
+		- Start-of-the-class Quizzes (10%)
+	- _Professor:_ Bekes, Gabor
+- __Data Engineering 1: Different Shapes of Data__
+	- _Credit:_ 2
+	- _Exam:_ 
+		- Exam (50%)
+		- Use case presentation (20%)
+		- Homework assignments (20%)
+		- Quizzes with Socrative (10%)
+	- _Professor:_ Sallo, Laszlo
+- __Data Engineering 2: Big Data and Cloud Computing__
+	- _Credit:_ 2
+	- _Exam:_ 
+		- Exam (50%)
+		- Assignments (40%)
+		- Start-of- the-class Quizzes (10%)
+	- _Professor:_ Toth, Zoltan
+- __Data Visualization 1: Introduction to Data Visualization with Tableau__
+	- _Credit:_ 2
+	- _Exam:_ Personal visual data analysis project (20 NOV) (100%) 
+	- _Professor:_ Arato, Bence
+- __Data Science 1: Data Architecture (D)__
+	- _Credit:_ 2
+	- _Exam:_ 
+		- Class participation (20%)
+		- Take-home assignments based on real-world data: 
+			- architectural design (30%)
+			- completed data product (50%)
+	- _Professor:_ Koren, Miklos
+- __Coding 2: Web scraping with R__ 
+	- _Credit:_ 1
+	- _Exam:_ Choosing a website, download and analyze its data (100%)
+	- _Professor:_ Orsos, Mihaly
+
+## Winter term 
+- __11 credits (7 mandatory + 4 elective)__
+- Data Analysis 3: Prediction and Introduction to Machine Learning
+	- _Credit:_ 2
+	- _Exam:_ TBA
+	- _Professor:_ Bekes, Gabor / Pal, Jeno
+- Data Science 2: Machine Learning Concepts
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Papp, Zoltan
+- Data Security and GDPR
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Papp, Peter
+- Data Visualization 2: Practical dataviz with R
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Daroczi, Gergely
+- Introduction to Agile Project Management
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Sallo, Laszlo
+- Use Case Seminars 1.
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Daroczi, Gergely
+- Coding 3: Data Management and Analysis with Python
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Somos, Eszter
+- Data Engineering 3: Real-Time Data Processing
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Toth, Zoltan
+- Data Engineering 4: Using R in Production
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Daroczi, Gergely
+
+## Fall term
+- __11 credits (10 mandatory +  1 elective)__
+- Data Science 4: Unstructured Text Analysis
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ de la Rubia, Eduardo
+- Designing Analytics Projects (Capstone Project Development Seminar)
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ de la Rubia, Eduardo
+- Capstone Project Writing
+	- _Credit:_ 4
+	- _Exam:_ TBA
+	- _Professor:_ Bogel, Gyorgy
+- Capstone Project
+	- _Credit:_ 4
+	- _Exam:_ TBA
+	- _Professor:_ Bogel, Gyorgy
+- Data Visualization 4: Dataviz Communication
+	- _Credit:_ 1
+	- _Exam:_ TBA
+	- _Professor:_ Cairo, Alberto
