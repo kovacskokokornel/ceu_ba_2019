@@ -13,7 +13,7 @@
 - __Data Analysis 1: Exploration - Business Analytics track__
 	- _Credit:_ 1
 	- _Exam:_ 
-		- Closed book exam (28 OCT) (90%)
+		- Closed book exam (29 OCT) (90%)
 		- Start-of-the-class Quizzes (10%)
 	- _Professor:_ Bekes, Gabor
 - __Data Analysis 2: Finding Patterns with Regressions - Business Analytics track__
