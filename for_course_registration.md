@@ -27,8 +27,8 @@
 - __Data Engineering 1: Different Shapes of Data__
 	- _Credit:_ 2
 	- _Exam:_ 
-		- Exam (50%)
-		- Use case presentation (20%)
+		- Exam (25 OCT) (50%)
+		- Use case presentation (25 OCT) (20%)
 		- Homework assignments (20%)
 		- Quizzes with Socrative (10%)
 	- _Professor:_ Sallo, Laszlo
