@@ -6,4 +6,6 @@
 	- 30 Sept
 - Data Engineering homework
 	- 28 Sept
+- Data Visualization 1
+	- 30 Sept 18.00
 	
