@@ -1,11 +1,13 @@
-# This is a to-do list of homeworks and assignements
+# This is a to-do list of homeworks and assignments
 
-- DA1 homework: data collection
-	- 29 Sept
-- R_Coding homework
-	- 30 Sept
-- Data Engineering homework
-	- 28 Sept
-- Data Visualization 1
-	- 30 Sept 18.00
-	
+## R-Coding assignment
+- Individual
+
+## DA1 assignment
+- Group
+
+## DE1 assignment
+- Group
+
+## DV1 assignment
+- Pair
