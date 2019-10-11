@@ -1,13 +1,13 @@
 # This is a to-do list of homeworks and assignments
 
-## R-Coding assignment
-- Individual
-
 ## DA1 assignment
-- Group
+- Group: Lisa, Szoki
+- Deadline: 27 OCT
 
 ## DE1 assignment
-- Group
+- Group: Sándor, Sebair, Desislava
+- Deadline: 25 OCT
 
 ## DV1 assignment
-- Pair
+- Pair: Hira
+- Deadline: 30 OCT
